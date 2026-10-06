@@ -1,5 +1,6 @@
-//Problem: Prime Number
-
+//Problem: PrimeNumber
+//Platform: GeeksforGeeks
+//Day:04
 class Solution {
     static boolean isPrime(int n) {
         // code here
